@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f2f9f1;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    background-color: #a2d5ab;
+    color: #333;
+    padding: 20px 0;
+    margin: 0;
+}
+#filters {
+    margin: 20px;
+}
+input {
+    padding: 10px;
+    margin: 5px;
+    width: 200px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+button {
+    padding: 10px 15px;
+    border: none;
+    background-color: #48c78e;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+#map {
+    height: 500px;
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+}
